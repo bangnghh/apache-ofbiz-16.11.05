@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.zapodot:jackson-databind-java-optional:2.4.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.zapodot/jackson-databind-java-optional/2.4.2/588266ff57165736149bc38e07f2875a4fe5969c/jackson-databind-java-optional-2.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.zapodot/jackson-databind-java-optional/2.4.2/2503b8bb2003b87ca4fc1b1df9b316c1815b67ec/jackson-databind-java-optional-2.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

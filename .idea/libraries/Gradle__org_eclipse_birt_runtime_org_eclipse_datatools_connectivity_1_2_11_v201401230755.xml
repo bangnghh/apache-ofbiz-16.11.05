@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.birt.runtime:org.eclipse.datatools.connectivity:1.2.11.v201401230755">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity/1.2.11.v201401230755/2e2f258cf40953e97423343786eed44aaef5e207/org.eclipse.datatools.connectivity-1.2.11.v201401230755.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity/1.2.11.v201401230755/c0f177b75c34878dd3a6b941b99f4bcbff1f2804/org.eclipse.datatools.connectivity-1.2.11.v201401230755-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

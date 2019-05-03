@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework:spring-binding:1.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-binding/1.0.6/c2789e5215ed30d4d9e06873097c8bab8ae97109/spring-binding-1.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-binding/1.0.6/5c6ebfcdf59ab37bd9f7a3659883a13bbbee7262/spring-binding-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

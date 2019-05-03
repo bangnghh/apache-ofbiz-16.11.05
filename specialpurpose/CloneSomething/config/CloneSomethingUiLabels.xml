@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://ofbiz.apache.org/dtds/ofbiz-properties.xsd">
+    <property key="CloneSomethingApplication">
+        <value xml:lang="en">CloneSomething Application</value>
+        <value xml:lang="zh">CloneSomething应用程�?</value>
+        <value xml:lang="zh-TW">CloneSomething應用程�?</value>
+        <value xml:lang="vi">Trải nghiệm vài thứ</value>
+    </property>
+    <property key="CloneSomethingCompanyName">
+        <value xml:lang="en">OFBiz: CloneSomething</value>
+        <value xml:lang="zh-TW">OFBiz: CloneSomething</value>
+        <value xml:lang="vi">Ofbiz: Trải nghiệm</value>
+    </property>
+    <property key="CloneSomethingCompanySubtitle">
+        <value xml:lang="en">Part of the Apache OFBiz Family of Open Source Software</value>
+        <value xml:lang="it">Un modulo della famiglia di software open source Apache OFBiz</value>
+        <value xml:lang="zh">开�?软件OFBiz的组�?部分</value>
+        <value xml:lang="zh-TW">開�?軟體OFBiz的組�?部分</value>
+        <value xml:lang="vi">1 phần của Apache Ofbiz Family</value>
+    </property>
+    <property key="CloneSomethingViewPermissionError">
+        <value xml:lang="en">You are not allowed to view this page.</value>
+        <value xml:lang="zh">�?�?许你�?览这个页�?�。</value>
+        <value xml:lang="zh-TW">�?�?許您檢視這個�?�?�.</value>
+        <value xml:lang="vi">Ko có quyền chui vào đây</value>
+    </property>
+    <property key="demProductId">
+        <value xml:lang="en">Product ID</value>
+        <value xml:lang="vi">Mã sản phẩm</value>
+    </property>
+    <property key="demProductTypeId">
+        <value xml:lang="en">Product Type ID</value>
+        <value xml:lang="vi">Kiểu sản phẩm</value>
+    </property>
+    <property key="comment">
+        <value xml:lang="en">Comment</value>
+        <value xml:lang="vi">Chú thích</value>
+    </property>
+    <property key="demProductFind">
+        <value xml:lang="en">Search Product</value>
+        <value xml:lang="vi">Tìm kiếm sản phẩm</value>
+    </property>
+    <property key="productName">
+        <value xml:lang="en">Product Name</value>
+        <value xml:lang="vi">Tên SP</value>
+    </property>
+    <property key="CommonFind">
+        <value xml:lang="en">Finding</value>
+        <value xml:lang="vi">Tìm kiếm</value>
+    </property>
+    <property key="CommonMain">
+        <value xml:lang="en">Main</value>
+        <value xml:lang="vi">Trang chính</value>
+    </property>
+    <property key="description">
+        <value xml:lang="en">Description</value>
+        <value xml:lang="vi">Mô tả</value>
+    </property>
+</resource>

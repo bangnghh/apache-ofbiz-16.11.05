@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ofbiz.iml" filepath="$PROJECT_DIR$/.idea/modules/ofbiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/ofbiz.applications.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/ofbiz.applications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/accounting/ofbiz.applications.accounting.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/accounting/ofbiz.applications.accounting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/commonext/ofbiz.applications.commonext.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/commonext/ofbiz.applications.commonext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/content/ofbiz.applications.content.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/content/ofbiz.applications.content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/datamodel/ofbiz.applications.datamodel.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/datamodel/ofbiz.applications.datamodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/humanres/ofbiz.applications.humanres.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/humanres/ofbiz.applications.humanres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/manufacturing/ofbiz.applications.manufacturing.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/manufacturing/ofbiz.applications.manufacturing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/marketing/ofbiz.applications.marketing.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/marketing/ofbiz.applications.marketing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/order/ofbiz.applications.order.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/order/ofbiz.applications.order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/party/ofbiz.applications.party.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/party/ofbiz.applications.party.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/product/ofbiz.applications.product.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/product/ofbiz.applications.product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/securityext/ofbiz.applications.securityext.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/securityext/ofbiz.applications.securityext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/workeffort/ofbiz.applications.workeffort.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/workeffort/ofbiz.applications.workeffort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/ofbiz.framework.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/ofbiz.framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/base/ofbiz.framework.base.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/base/ofbiz.framework.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/catalina/ofbiz.framework.catalina.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/catalina/ofbiz.framework.catalina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/common/ofbiz.framework.common.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/common/ofbiz.framework.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/datafile/ofbiz.framework.datafile.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/datafile/ofbiz.framework.datafile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/entity/ofbiz.framework.entity.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/entity/ofbiz.framework.entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/entityext/ofbiz.framework.entityext.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/entityext/ofbiz.framework.entityext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/images/ofbiz.framework.images.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/images/ofbiz.framework.images.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/minilang/ofbiz.framework.minilang.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/minilang/ofbiz.framework.minilang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/security/ofbiz.framework.security.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/security/ofbiz.framework.security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/service/ofbiz.framework.service.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/service/ofbiz.framework.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/start/ofbiz.framework.start.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/start/ofbiz.framework.start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/testtools/ofbiz.framework.testtools.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/testtools/ofbiz.framework.testtools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/webapp/ofbiz.framework.webapp.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/webapp/ofbiz.framework.webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/webtools/ofbiz.framework.webtools.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/webtools/ofbiz.framework.webtools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/widget/ofbiz.framework.widget.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/widget/ofbiz.framework.widget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ofbiz.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ofbiz.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/ofbiz.specialpurpose.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/ofbiz.specialpurpose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/CloneSomething/ofbiz.specialpurpose.CloneSomething.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/CloneSomething/ofbiz.specialpurpose.CloneSomething.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/assetmaint/ofbiz.specialpurpose.assetmaint.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/assetmaint/ofbiz.specialpurpose.assetmaint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/bi/ofbiz.specialpurpose.bi.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/bi/ofbiz.specialpurpose.bi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/birt/ofbiz.specialpurpose.birt.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/birt/ofbiz.specialpurpose.birt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/cmssite/ofbiz.specialpurpose.cmssite.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/cmssite/ofbiz.specialpurpose.cmssite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/ebay/ofbiz.specialpurpose.ebay.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/ebay/ofbiz.specialpurpose.ebay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/ecommerce/ofbiz.specialpurpose.ecommerce.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/ecommerce/ofbiz.specialpurpose.ecommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/example/ofbiz.specialpurpose.example.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/example/ofbiz.specialpurpose.example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/exampleext/ofbiz.specialpurpose.exampleext.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/exampleext/ofbiz.specialpurpose.exampleext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/hhfacility/ofbiz.specialpurpose.hhfacility.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/hhfacility/ofbiz.specialpurpose.hhfacility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/ldap/ofbiz.specialpurpose.ldap.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/ldap/ofbiz.specialpurpose.ldap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/lucene/ofbiz.specialpurpose.lucene.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/lucene/ofbiz.specialpurpose.lucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/myportal/ofbiz.specialpurpose.myportal.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/myportal/ofbiz.specialpurpose.myportal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/passport/ofbiz.specialpurpose.passport.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/passport/ofbiz.specialpurpose.passport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/projectmgr/ofbiz.specialpurpose.projectmgr.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/projectmgr/ofbiz.specialpurpose.projectmgr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/scrum/ofbiz.specialpurpose.scrum.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/scrum/ofbiz.specialpurpose.scrum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/solr/ofbiz.specialpurpose.solr.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/solr/ofbiz.specialpurpose.solr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/webpos/ofbiz.specialpurpose.webpos.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/webpos/ofbiz.specialpurpose.webpos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ofbiz.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ofbiz.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/themes/ofbiz.themes.iml" filepath="$PROJECT_DIR$/.idea/modules/themes/ofbiz.themes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/themes/bluelight/ofbiz.themes.bluelight.iml" filepath="$PROJECT_DIR$/.idea/modules/themes/bluelight/ofbiz.themes.bluelight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/themes/flatgrey/ofbiz.themes.flatgrey.iml" filepath="$PROJECT_DIR$/.idea/modules/themes/flatgrey/ofbiz.themes.flatgrey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/themes/multiflex/ofbiz.themes.multiflex.iml" filepath="$PROJECT_DIR$/.idea/modules/themes/multiflex/ofbiz.themes.multiflex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/themes/rainbowstone/ofbiz.themes.rainbowstone.iml" filepath="$PROJECT_DIR$/.idea/modules/themes/rainbowstone/ofbiz.themes.rainbowstone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/themes/tomahawk/ofbiz.themes.tomahawk.iml" filepath="$PROJECT_DIR$/.idea/modules/themes/tomahawk/ofbiz.themes.tomahawk.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jdom:com.springsource.org.jdom:1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jdom/com.springsource.org.jdom/1.0.0/32e7389479349a9d30cab805d83486b1e865aeaa/com.springsource.org.jdom-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jdom/com.springsource.org.jdom/1.0.0/662abe0196cf554d4d7374f5d6382034171b652c/com.springsource.org.jdom-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

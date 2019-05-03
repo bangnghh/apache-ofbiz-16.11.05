@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3159cc3e-1a63-4f4d-b1db-f2576be4cccf" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/framework/webapp/.gradle/" />
+    <ignored path="$PROJECT_DIR$/framework/webapp/build/" />
+    <ignored path="$PROJECT_DIR$/themes/rainbowstone/.gradle/" />
+    <ignored path="$PROJECT_DIR$/themes/rainbowstone/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/cmssite/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/cmssite/build/" />
+    <ignored path="$PROJECT_DIR$/applications/securityext/.gradle/" />
+    <ignored path="$PROJECT_DIR$/applications/securityext/build/" />
+    <ignored path="$PROJECT_DIR$/framework/entityext/.gradle/" />
+    <ignored path="$PROJECT_DIR$/framework/entityext/build/" />
+    <ignored path="$PROJECT_DIR$/applications/accounting/.gradle/" />
+    <ignored path="$PROJECT_DIR$/applications/accounting/build/" />
+    <ignored path="$PROJECT_DIR$/framework/datafile/.gradle/" />
+    <ignored path="$PROJECT_DIR$/framework/datafile/build/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/themes/.gradle/" />
+    <ignored path="$PROJECT_DIR$/themes/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/passport/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/passport/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/ldap/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/ldap/build/" />
+    <ignored path="$PROJECT_DIR$/applications/manufacturing/.gradle/" />
+    <ignored path="$PROJECT_DIR$/applications/manufacturing/build/" />
+    <ignored path="$PROJECT_DIR$/themes/bluelight/.gradle/" />
+    <ignored path="$PROJECT_DIR$/themes/bluelight/build/" />
+    <ignored path="$PROJECT_DIR$/applications/order/.gradle/" />
+    <ignored path="$PROJECT_DIR$/applications/order/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/build/" />
+    <ignored path="$PROJECT_DIR$/framework/images/.gradle/" />
+    <ignored path="$PROJECT_DIR$/framework/images/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/hhfacility/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/hhfacility/build/" />
+    <ignored path="$PROJECT_DIR$/applications/datamodel/.gradle/" />
+    <ignored path="$PROJECT_DIR$/applications/datamodel/build/" />
+    <ignored path="$PROJECT_DIR$/themes/multiflex/.gradle/" />
+    <ignored path="$PROJECT_DIR$/themes/multiflex/build/" />
+    <ignored path="$PROJECT_DIR$/applications/commonext/.gradle/" />
+    <ignored path="$PROJECT_DIR$/applications/commonext/build/" />
+    <ignored path="$PROJECT_DIR$/themes/flatgrey/.gradle/" />
+    <ignored path="$PROJECT_DIR$/themes/flatgrey/build/" />
+    <ignored path="$PROJECT_DIR$/framework/minilang/.gradle/" />
+    <ignored path="$PROJECT_DIR$/framework/minilang/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/scrum/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/scrum/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/ebay/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/ebay/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/myportal/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/myportal/build/" />
+    <ignored path="$PROJECT_DIR$/applications/party/.gradle/" />
+    <ignored path="$PROJECT_DIR$/applications/party/build/" />
+    <ignored path="$PROJECT_DIR$/themes/tomahawk/.gradle/" />
+    <ignored path="$PROJECT_DIR$/themes/tomahawk/build/" />
+    <ignored path="$PROJECT_DIR$/framework/widget/.gradle/" />
+    <ignored path="$PROJECT_DIR$/framework/widget/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/assetmaint/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/assetmaint/build/" />
+    <ignored path="$PROJECT_DIR$/framework/testtools/.gradle/" />
+    <ignored path="$PROJECT_DIR$/framework/testtools/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/bi/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/bi/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/lucene/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/lucene/build/" />
+    <ignored path="$PROJECT_DIR$/applications/workeffort/.gradle/" />
+    <ignored path="$PROJECT_DIR$/applications/workeffort/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/projectmgr/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/projectmgr/build/" />
+    <ignored path="$PROJECT_DIR$/applications/content/.gradle/" />
+    <ignored path="$PROJECT_DIR$/applications/content/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/webpos/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/webpos/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/example/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/example/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/exampleext/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/exampleext/build/" />
+    <ignored path="$PROJECT_DIR$/framework/security/.gradle/" />
+    <ignored path="$PROJECT_DIR$/framework/security/build/" />
+    <ignored path="$PROJECT_DIR$/framework/common/.gradle/" />
+    <ignored path="$PROJECT_DIR$/framework/common/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/ofbizDemo/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/ofbizDemo/build/" />
+    <ignored path="$PROJECT_DIR$/framework/webtools/.gradle/" />
+    <ignored path="$PROJECT_DIR$/framework/webtools/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/ecommerce/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/ecommerce/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/solr/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/solr/build/" />
+    <ignored path="$PROJECT_DIR$/applications/product/.gradle/" />
+    <ignored path="$PROJECT_DIR$/applications/product/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/birt/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/birt/build/" />
+    <ignored path="$PROJECT_DIR$/framework/start/.gradle/" />
+    <ignored path="$PROJECT_DIR$/framework/start/build/" />
+    <ignored path="$PROJECT_DIR$/applications/humanres/.gradle/" />
+    <ignored path="$PROJECT_DIR$/applications/humanres/build/" />
+    <ignored path="$PROJECT_DIR$/applications/marketing/.gradle/" />
+    <ignored path="$PROJECT_DIR$/applications/marketing/build/" />
+    <ignored path="$PROJECT_DIR$/framework/.gradle/" />
+    <ignored path="$PROJECT_DIR$/framework/build/" />
+    <ignored path="$PROJECT_DIR$/framework/service/.gradle/" />
+    <ignored path="$PROJECT_DIR$/framework/service/build/" />
+    <ignored path="$PROJECT_DIR$/framework/catalina/.gradle/" />
+    <ignored path="$PROJECT_DIR$/framework/catalina/build/" />
+    <ignored path="$PROJECT_DIR$/framework/entity/.gradle/" />
+    <ignored path="$PROJECT_DIR$/framework/entity/build/" />
+    <ignored path="$PROJECT_DIR$/applications/.gradle/" />
+    <ignored path="$PROJECT_DIR$/applications/build/" />
+    <ignored path="$PROJECT_DIR$/framework/base/.gradle/" />
+    <ignored path="$PROJECT_DIR$/framework/base/build/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/CloneSomething/.gradle/" />
+    <ignored path="$PROJECT_DIR$/specialpurpose/CloneSomething/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ofbiz" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/src/main/java/com/example/ofbiz/service/CreateService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/src/main/java/com/example/ofbiz/events/CreateEvents.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/servicedef/services.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/service/config/serviceengine.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="48" column="84" selection-start-line="48" selection-start-column="84" selection-end-line="48" selection-end-column="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/entitydef/entitymodel.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applications/accounting/entitydef/entitymodel_old.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-600" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/common/data/GeoData_US.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-600" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applications/accounting/entitydef/eecas.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-228" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/applications/accounting/entitydef/entitymodel_reports.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-660" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Find</find>
+      <find>find</find>
+      <find>Findemploy</find>
+      <find>party</find>
+      <find>userLoginId</find>
+      <find>nhập</find>
+      <find>người dùng truy nhập</find>
+      <find>Tên đăng nhập</find>
+      <find>default password</find>
+      <find>ListLocales</find>
+      <find>CommonLanguageTitle</find>
+      <find>availableLocales</find>
+      <find>locales</find>
+      <find>charset=UTF-8</find>
+      <find>@Entity</find>
+      <find>ejb</find>
+      <find>EJB</find>
+      <find>loginform</find>
+      <find>setPKFields</find>
+      <find>ServiceDispatcher</find>
+      <find>LocalDispatcher</find>
+      <find>ServiceTest.java</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Bang\IdeaProjects\apache-ofbiz-16.11.05\applications</dir>
+      <dir>C:\Users\Bang\IdeaProjects\apache-ofbiz-16.11.05\specialpurpose\CloneSomething</dir>
+      <dir>C:\Users\Bang\IdeaProjects\apache-ofbiz-16.11.05</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/apache-ofbiz" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/specialpurpose/ofbizDemo/entitydef/entitymodel.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/ofbizDemo/data/OfbizDemoDemoData.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/ofbizDemo/data/OfbizDemoTypeData.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/ofbizDemo/widget/OfbizDemoScreens.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/ofbizDemo/config/OfbizDemoUiLabels.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/ofbizDemo/ofbiz-component.xml" />
+        <option value="$PROJECT_DIR$/applications/humanres/config/HumanResUiLabels.xml" />
+        <option value="$PROJECT_DIR$/applications/party/config/PartyUiLabels.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/ofbizDemo/src/main/java/com/company/ofbizdemo/services/OfbizDemoServices.java" />
+        <option value="$PROJECT_DIR$/specialpurpose/ofbizDemo/script/com/company/ofbizdemo/OfbizDemoServices.groovy" />
+        <option value="$PROJECT_DIR$/specialpurpose/ofbizDemo/servicedef/services.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/ofbizDemo/src/main/java/com/company/ofbizdemo/events/OfbizDemoEvents.java" />
+        <option value="$PROJECT_DIR$/specialpurpose/ofbizDemo/webapp/ofbizDemo/WEB-INF/controller.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/ofbizDemo/widget/OfbizDemoForms.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/ofbizDemo/widget/OfbizDemoMenus.xml" />
+        <option value="$PROJECT_DIR$/framework/common/template/Login.ftl" />
+        <option value="$PROJECT_DIR$/framework/common/template/includes/ListLocales.ftl" />
+        <option value="$PROJECT_DIR$/specialpurpose/component-load.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/entitydef/entitymodel.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/ofbiz-component.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/data/CloneSomethingTypeData.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/widget/CloneSomethingMenus.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/src/com/example/ofbiz/service/CreateService.java" />
+        <option value="$PROJECT_DIR$/framework/entity/config/entityengine.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/src/main/java/com/example/ofbiz/engine/CreateService.java" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/config/CloneSomethingUiLabels.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/widget/CloneSomethingScreens.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/webapp/CloneSomething/WEB-INF/controller.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/src/main/java/com/example/ofbiz/events/CreateTypeEvent.java" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/servicedef/services.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/src/main/java/com/example/ofbiz/service/CreateTypeService.java" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/src/main/java/com/example/ofbiz/service/CreateService.java" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/widget/CloneSomethingForms.xml" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/webapp/CloneSomething/crud/ListDemProduct.ftl" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/webapp/CloneSomething/crud/AddDemProduct.ftl" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/webapp/CloneSomething/WEB-INF/actions/crud/ListDemProduct.groovy" />
+        <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/src/main/java/com/example/ofbiz/events/CreateEvents.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="framework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="framework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="entity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="framework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="entity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="framework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="entity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="framework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="entity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="framework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="entity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="specialpurpose" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="specialpurpose" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CloneSomething" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="specialpurpose" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CloneSomething" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="specialpurpose" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CloneSomething" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="documents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="specialpurpose" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CloneSomething" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="entitydef" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="specialpurpose" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="CloneSomething" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556550892945" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/specialpurpose/CloneSomething" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.apache-ofbiz-16.11.05 [ofbiz]">
+    <configuration name="apache-ofbiz-16.11.05 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="apache-ofbiz-16.11.05 [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="apache-ofbiz-16.11.05 [ofbiz]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="ofbiz" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="apache-ofbiz-16.11.05 [terminateOfbiz]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="terminateOfbiz" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.apache-ofbiz-16.11.05 [ofbiz]" />
+      <item itemvalue="Gradle.apache-ofbiz-16.11.05 [terminateOfbiz]" />
+      <item itemvalue="Gradle.apache-ofbiz-16.11.05 [build]" />
+      <item itemvalue="Gradle.apache-ofbiz-16.11.05 [clean]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.apache-ofbiz-16.11.05 [build]" />
+        <item itemvalue="Gradle.apache-ofbiz-16.11.05 [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3159cc3e-1a63-4f4d-b1db-f2576be4cccf" name="Default Changelist" comment="" />
+      <created>1551023259751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551023259751</updated>
+      <workItem from="1551023264686" duration="1688000" />
+      <workItem from="1551090687989" duration="3025000" />
+      <workItem from="1551166370827" duration="1577000" />
+      <workItem from="1551169175654" duration="10647000" />
+      <workItem from="1551256945182" duration="12270000" />
+      <workItem from="1551285573959" duration="3044000" />
+      <workItem from="1551516569120" duration="922000" />
+      <workItem from="1551518543662" duration="3505000" />
+      <workItem from="1551565102631" duration="598000" />
+      <workItem from="1551687982436" duration="2861000" />
+      <workItem from="1551779508225" duration="3349000" />
+      <workItem from="1551801430258" duration="3031000" />
+      <workItem from="1551876040836" duration="3646000" />
+      <workItem from="1551951797924" duration="4570000" />
+      <workItem from="1551960654307" duration="5763000" />
+      <workItem from="1552231496105" duration="1138000" />
+      <workItem from="1552289297604" duration="4280000" />
+      <workItem from="1552398160767" duration="598000" />
+      <workItem from="1552572931225" duration="1532000" />
+      <workItem from="1552635463599" duration="1710000" />
+      <workItem from="1553352837434" duration="598000" />
+      <workItem from="1553863716324" duration="5557000" />
+      <workItem from="1554209258258" duration="553000" />
+      <workItem from="1554553235261" duration="3449000" />
+      <workItem from="1554796536181" duration="13742000" />
+      <workItem from="1554882203571" duration="10104000" />
+      <workItem from="1554972494229" duration="16907000" />
+      <workItem from="1555003542790" duration="553000" />
+      <workItem from="1555052844310" duration="4249000" />
+      <workItem from="1555138332022" duration="5600000" />
+      <workItem from="1555226492871" duration="775000" />
+      <workItem from="1555253802112" duration="4176000" />
+      <workItem from="1555328344789" duration="15002000" />
+      <workItem from="1555400180426" duration="6472000" />
+      <workItem from="1555428597831" duration="5086000" />
+      <workItem from="1555482754719" duration="1202000" />
+      <workItem from="1555490001832" duration="3685000" />
+      <workItem from="1555574840059" duration="6907000" />
+      <workItem from="1555684729835" duration="4841000" />
+      <workItem from="1556529269407" duration="6248000" />
+      <workItem from="1556712831240" duration="2277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="187737000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22107969" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3512786" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3434453" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.19501625" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.32974428" />
+      <window_info anchor="bottom" id="Spring" order="14" weight="0.32936078" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.32936078" />
+      <window_info anchor="bottom" id="Thumbnails" order="16" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Gradle" order="9" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/README">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/accounting/src/main/java/org/apache/ofbiz/accounting/agreement/AgreementServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="76" column="113" selection-start-line="76" selection-start-column="113" selection-end-line="76" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/accounting/documents/Accounting.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="50" lean-forward="true" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/documentation/README.md.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1380" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/component-load.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/data/CloneSomethingTypeData.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/widget/CommonScreens.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/accounting/widget/AccountingMenus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/widget/dtd/widget-form.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="89" column="12" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/accounting/widget/AgreementForms.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="54" column="47" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/component-load.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/src/com/example/ofbiz/service/CreateService.java" />
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/src/main/java/com/example/ofbiz/engine/CreateService.java" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="86" column="46" selection-start-line="86" selection-start-column="46" selection-end-line="86" selection-end-column="46" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/entity/config/entityengine.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="546" column="34" selection-start-line="546" selection-start-column="34" selection-end-line="546" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/widget/CloneSomethingMenus.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/base/src/main/java/org/apache/ofbiz/base/util/UtilMisc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="117" column="79" selection-start-line="117" selection-start-column="79" selection-end-line="117" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/service/src/main/java/org/apache/ofbiz/service/ModelService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="101" column="58" selection-start-line="101" selection-start-column="58" selection-end-line="101" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/ab3976d4574c48d22dc1abf6a9e8bd0fdf928223/javax.servlet-api-3.1.0-sources.jar!/javax/servlet/http/HttpServletRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4081">
+          <caret line="521" column="23" selection-start-line="521" selection-start-column="23" selection-end-line="521" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/service/src/main/java/org/apache/ofbiz/service/LocalDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/entity/src/main/java/org/apache/ofbiz/entity/GenericValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/entity/src/main/java/org/apache/ofbiz/entity/GenericEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="680" column="57" lean-forward="true" selection-start-line="680" selection-start-column="57" selection-end-line="680" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/service/src/main/java/org/apache/ofbiz/service/ServiceUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="157" column="130" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="130" />
+          <folding>
+            <element signature="e#7729#7730#0" expanded="true" />
+            <element signature="e#7801#7802#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/service/src/main/java/org/apache/ofbiz/service/DispatchContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="131" column="17" selection-start-line="131" selection-start-column="17" selection-end-line="131" selection-end-column="17" />
+          <folding>
+            <element signature="e#5162#5163#0" expanded="true" />
+            <element signature="e#5210#5211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/src/main/java/com/example/ofbiz/events/CreateTypeEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/webapp/CloneSomething/crud/AddDemProduct.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/webapp/CloneSomething/crud/ListDemProduct.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/webapp/CloneSomething/WEB-INF/actions/crud/ListDemProduct.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/entity/src/main/java/org/apache/ofbiz/entity/Delegator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13120">
+          <caret line="701" column="17" selection-start-line="701" selection-start-column="17" selection-end-line="701" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/widget/CloneSomethingForms.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="46" column="103" selection-start-line="46" selection-start-column="103" selection-end-line="46" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/widget/CloneSomethingScreens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/webapp/CloneSomething/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/webapp/CloneSomething/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="78" column="46" selection-start-line="78" selection-start-column="46" selection-end-line="78" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/webapp/src/main/java/org/apache/ofbiz/webapp/control/LoginWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2540">
+          <caret line="88" column="13" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/common/webcommon/WEB-INF/common-controller.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="29" column="95" selection-start-line="29" selection-start-column="95" selection-end-line="29" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/webapp/CloneSomething/WEB-INF/controller.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="39" column="43" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/config/CloneSomethingUiLabels.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="47" column="44" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/src/main/java/com/example/ofbiz/service/CreateTypeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="15" column="75" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/service/servicedef/services.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/service/src/main/java/org/apache/ofbiz/service/engine/StandardJavaEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/ofbiz-component.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/src/main/java/com/example/ofbiz/service/CreateService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/src/main/java/com/example/ofbiz/events/CreateEvents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/servicedef/services.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/service/config/serviceengine.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="48" column="84" selection-start-line="48" selection-start-column="84" selection-end-line="48" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/accounting/entitydef/eecas.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/accounting/entitydef/entitymodel_reports.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/accounting/entitydef/entitymodel_old.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/common/data/GeoData_US.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/entitydef/entitymodel.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="build" />
+    <option value="clean" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>specialpurpose|ofbiz</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: antlr:antlr:2.7.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

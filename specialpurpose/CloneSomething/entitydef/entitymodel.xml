@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entitymodel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="http://ofbiz.apache.org/dtds/entitymodel.xsd">
+    <!-- ========================================================= -->
+    <!-- ======================== Defaults ======================= -->
+    <!-- ========================================================= -->
+    <title>Entity of CloneSomething Component</title>
+    <description>None</description>
+    <copyright></copyright>
+    <version></version>
+
+    <entity entity-name="DemProductType" package-name="org.apache.ofbiz.CloneSomething" title="Demo Product Type Entity">
+        <field name="demProductTypeId" type="id"><description>Primary key ID</description></field>
+        <field name="description" type="description"></field>
+        <prim-key field="demProductTypeId"></prim-key>
+    </entity>
+    <entity entity-name="DemProduct" package-name="org.apache.ofbiz.CloneSomething" title="Demo Product Entity">
+        <field name="demProductId" type="id"><description>Primary key ID</description></field>
+        <field name="demProductTypeId" type="id"></field>
+        <field name="productName" type="name"></field>
+        <field name="comment" type="comment"></field>
+        <prim-key field="demProductId"></prim-key>
+        <relation type="one" fk-name="PRODUCT_OD_TYPE_ID" rel-entity-name="DemProductType">
+            <key-map field-name="demProductTypeId"></key-map>
+        </relation>
+    </entity>
+</entitymodel>

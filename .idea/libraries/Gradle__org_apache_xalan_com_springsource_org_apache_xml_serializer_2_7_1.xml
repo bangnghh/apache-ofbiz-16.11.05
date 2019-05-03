@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.xalan:com.springsource.org.apache.xml.serializer:2.7.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xalan/com.springsource.org.apache.xml.serializer/2.7.1/a5894329e5464857c3e0df52597d186bea0855e3/com.springsource.org.apache.xml.serializer-2.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xalan/com.springsource.org.apache.xml.serializer/2.7.1/595c6990525643b28b2dd1c5093f09ffa79ba119/com.springsource.org.apache.xml.serializer-2.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

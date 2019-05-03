@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.birt.runtime:org.eclipse.datatools.connectivity.sqm.core:1.2.8.v201401230755">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.sqm.core/1.2.8.v201401230755/c0d3d79971a815a4db6c5b009ada4f0f1f44e043/org.eclipse.datatools.connectivity.sqm.core-1.2.8.v201401230755.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.sqm.core/1.2.8.v201401230755/2937c6bf50293283784be3d434863041461dedb0/org.eclipse.datatools.connectivity.sqm.core-1.2.8.v201401230755-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

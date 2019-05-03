@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.fortuna.ical4j:ical4j:1.0-rc3-atlassian-11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fortuna.ical4j/ical4j/1.0-rc3-atlassian-11/cc4aa02f5cc8773876aad173517d20438b1b60ea/ical4j-1.0-rc3-atlassian-11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fortuna.ical4j/ical4j/1.0-rc3-atlassian-11/25da514e1b0095f640de5e77c24a087231b5c058/ical4j-1.0-rc3-atlassian-11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
