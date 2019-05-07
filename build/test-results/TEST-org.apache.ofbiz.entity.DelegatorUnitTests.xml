@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.ofbiz.entity.DelegatorUnitTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-04-24T17:10:41" hostname="DESKTOP-FB97H2A" time="3.739">
+<testsuite name="org.apache.ofbiz.entity.DelegatorUnitTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-05-04T11:22:02" hostname="DESKTOP-FB97H2A" time="4.946">
   <properties/>
-  <testcase name="delegatorCreationUsingConstructorFailsIfConfigurationIsMissing" classname="org.apache.ofbiz.entity.DelegatorUnitTests" time="1.478"/>
-  <testcase name="delegatorCreationUsingFactoryReturnsNullIfConfigurationIsMissing" classname="org.apache.ofbiz.entity.DelegatorUnitTests" time="0.0"/>
-  <testcase name="delegatorCreationUsingFactoryGetDelegator" classname="org.apache.ofbiz.entity.DelegatorUnitTests" time="1.658"/>
-  <testcase name="delegatorCreationUsingFactoryGetInstance" classname="org.apache.ofbiz.entity.DelegatorUnitTests" time="0.424"/>
-  <testcase name="delegatorCreationUsingConstructor" classname="org.apache.ofbiz.entity.DelegatorUnitTests" time="0.179"/>
+  <testcase name="delegatorCreationUsingFactoryReturnsNullIfConfigurationIsMissing" classname="org.apache.ofbiz.entity.DelegatorUnitTests" time="1.995"/>
+  <testcase name="delegatorCreationUsingConstructorFailsIfConfigurationIsMissing" classname="org.apache.ofbiz.entity.DelegatorUnitTests" time="0.003"/>
+  <testcase name="delegatorCreationUsingConstructor" classname="org.apache.ofbiz.entity.DelegatorUnitTests" time="1.967"/>
+  <testcase name="delegatorCreationUsingFactoryGetInstance" classname="org.apache.ofbiz.entity.DelegatorUnitTests" time="0.61"/>
+  <testcase name="delegatorCreationUsingFactoryGetDelegator" classname="org.apache.ofbiz.entity.DelegatorUnitTests" time="0.366"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

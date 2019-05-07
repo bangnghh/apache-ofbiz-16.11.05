@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3159cc3e-1a63-4f4d-b1db-f2576be4cccf" name="Default Changelist" comment="" />
+    <list default="true" id="3159cc3e-1a63-4f4d-b1db-f2576be4cccf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/cache.properties.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/cache.properties.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/taskArtifacts.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/ofbiz.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ofbiz.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/specialpurpose/CloneSomething/ofbiz.specialpurpose.CloneSomething.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/specialpurpose/CloneSomething/ofbiz.specialpurpose.CloneSomething.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/com/example/ofbiz/events/CreateEvents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/com/example/ofbiz/events/CreateTypeEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/com/example/ofbiz/service/CreateService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/main/com/example/ofbiz/service/CreateTypeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/ofbiz.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/ofbiz.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/classes/org.apache.ofbiz.base.start.OfbizStartupUnitTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/classes/org.apache.ofbiz.base.start.OfbizStartupUnitTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/classes/org.apache.ofbiz.base.util.UtilCodecTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/classes/org.apache.ofbiz.base.util.UtilCodecTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/classes/org.apache.ofbiz.base.util.template.FreeMarkerWorkerTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/classes/org.apache.ofbiz.base.util.template.FreeMarkerWorkerTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/classes/org.apache.ofbiz.common.GetLocaleListTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/classes/org.apache.ofbiz.common.GetLocaleListTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/classes/org.apache.ofbiz.entity.DelegatorUnitTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/classes/org.apache.ofbiz.entity.DelegatorUnitTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/classes/org.apache.ofbiz.entity.util.EntitySaxReaderTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/classes/org.apache.ofbiz.entity.util.EntitySaxReaderTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/classes/org.apache.ofbiz.webapp.control.ControlFilterTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/classes/org.apache.ofbiz.webapp.control.ControlFilterTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/packages/org.apache.ofbiz.base.start.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/packages/org.apache.ofbiz.base.start.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/packages/org.apache.ofbiz.base.util.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/packages/org.apache.ofbiz.base.util.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/packages/org.apache.ofbiz.base.util.template.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/packages/org.apache.ofbiz.base.util.template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/packages/org.apache.ofbiz.common.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/packages/org.apache.ofbiz.common.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/packages/org.apache.ofbiz.entity.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/packages/org.apache.ofbiz.entity.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/packages/org.apache.ofbiz.entity.util.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/packages/org.apache.ofbiz.entity.util.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/packages/org.apache.ofbiz.webapp.control.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/packages/org.apache.ofbiz.webapp.control.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/TEST-org.apache.ofbiz.base.start.OfbizStartupUnitTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/TEST-org.apache.ofbiz.base.start.OfbizStartupUnitTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/TEST-org.apache.ofbiz.base.util.UtilCodecTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/TEST-org.apache.ofbiz.base.util.UtilCodecTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/TEST-org.apache.ofbiz.base.util.template.FreeMarkerWorkerTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/TEST-org.apache.ofbiz.base.util.template.FreeMarkerWorkerTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/TEST-org.apache.ofbiz.common.GetLocaleListTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/TEST-org.apache.ofbiz.common.GetLocaleListTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/TEST-org.apache.ofbiz.entity.DelegatorUnitTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/TEST-org.apache.ofbiz.entity.DelegatorUnitTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/TEST-org.apache.ofbiz.entity.util.EntitySaxReaderTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/TEST-org.apache.ofbiz.entity.util.EntitySaxReaderTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/TEST-org.apache.ofbiz.webapp.control.ControlFilterTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/TEST-org.apache.ofbiz.webapp.control.ControlFilterTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/binary/test/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/binary/test/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/binary/test/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/binary/test/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/binary/test/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/binary/test/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specialpurpose/component-load.xml" beforeDir="false" afterPath="$PROJECT_DIR$/specialpurpose/component-load.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/framework/webapp/.gradle/" />
     <ignored path="$PROJECT_DIR$/framework/webapp/build/" />
     <ignored path="$PROJECT_DIR$/themes/rainbowstone/.gradle/" />
@@ -146,81 +186,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/src/main/java/com/example/ofbiz/service/CreateService.java">
+        <entry file="file://$PROJECT_DIR$/framework/entity/src/main/java/org/apache/ofbiz/entity/Delegator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="14560">
+              <caret line="773" column="7" selection-start-line="773" selection-start-column="7" selection-end-line="773" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/src/main/java/com/example/ofbiz/events/CreateEvents.java">
+        <entry file="file://$PROJECT_DIR$/specialpurpose/component-load.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/servicedef/services.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/framework/service/config/serviceengine.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="48" column="84" selection-start-line="48" selection-start-column="84" selection-end-line="48" selection-end-column="84" />
+            <state relative-caret-position="340">
+              <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/entitydef/entitymodel.xml">
+        <entry file="file://$PROJECT_DIR$/applications/component-load.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="620">
+              <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applications/accounting/entitydef/entitymodel_old.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-600" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/framework/common/data/GeoData_US.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-600" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applications/accounting/entitydef/eecas.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-228" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applications/accounting/entitydef/entitymodel_reports.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-660" />
           </provider>
         </entry>
       </file>
@@ -265,7 +253,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/apache-ofbiz" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -287,7 +275,6 @@
         <option value="$PROJECT_DIR$/specialpurpose/ofbizDemo/widget/OfbizDemoMenus.xml" />
         <option value="$PROJECT_DIR$/framework/common/template/Login.ftl" />
         <option value="$PROJECT_DIR$/framework/common/template/includes/ListLocales.ftl" />
-        <option value="$PROJECT_DIR$/specialpurpose/component-load.xml" />
         <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/entitydef/entitymodel.xml" />
         <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/ofbiz-component.xml" />
         <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/data/CloneSomethingTypeData.xml" />
@@ -308,12 +295,13 @@
         <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/webapp/CloneSomething/crud/AddDemProduct.ftl" />
         <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/webapp/CloneSomething/WEB-INF/actions/crud/ListDemProduct.groovy" />
         <option value="$PROJECT_DIR$/specialpurpose/CloneSomething/src/main/java/com/example/ofbiz/events/CreateEvents.java" />
+        <option value="$PROJECT_DIR$/specialpurpose/component-load.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="1709" />
+    <option name="y" value="63" />
     <option name="width" value="1616" />
     <option name="height" value="876" />
   </component>
@@ -323,6 +311,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -333,134 +323,26 @@
             <path>
               <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
               <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="framework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="framework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="entity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="framework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="entity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="framework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="entity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="framework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="entity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="framework" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="entity" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="specialpurpose" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="specialpurpose" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="CloneSomething" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="specialpurpose" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="CloneSomething" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="specialpurpose" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="CloneSomething" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="documents" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="specialpurpose" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="CloneSomething" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="entitydef" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="apache-ofbiz-16.11.05" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="specialpurpose" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="CloneSomething" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ofbiz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556550892945" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/specialpurpose/CloneSomething" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556964603459" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -615,11 +497,15 @@
       <workItem from="1555684729835" duration="4841000" />
       <workItem from="1556529269407" duration="6248000" />
       <workItem from="1556712831240" duration="2277000" />
+      <workItem from="1556963602263" duration="871000" />
+      <workItem from="1556964743475" duration="2350000" />
+      <workItem from="1557140098467" duration="597000" />
+      <workItem from="1557221764840" duration="643000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187737000" />
+    <option name="totallyTimeSpent" value="192198000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -631,10 +517,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="1592" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22107969" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19189766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -644,7 +530,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3512786" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28277355" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3434453" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -653,7 +539,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.19501625" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32839838" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
       <window_info anchor="bottom" id="Build" order="13" weight="0.32974428" />
       <window_info anchor="bottom" id="Spring" order="14" weight="0.32936078" />
@@ -673,6 +559,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/apache-ofbiz" />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/README">
@@ -695,13 +586,6 @@
     <entry file="file://$PROJECT_DIR$/tools/documentation/README.md.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1380" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applications/component-load.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/data/CloneSomethingTypeData.xml">
@@ -736,13 +620,6 @@
     <entry file="file://$PROJECT_DIR$/gradlew">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1020" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/specialpurpose/component-load.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/src/com/example/ofbiz/service/CreateService.java" />
@@ -869,13 +746,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/framework/entity/src/main/java/org/apache/ofbiz/entity/Delegator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13120">
-          <caret line="701" column="17" selection-start-line="701" selection-start-column="17" selection-end-line="701" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/widget/CloneSomethingForms.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="920">
@@ -991,30 +861,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applications/accounting/entitydef/eecas.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applications/accounting/entitydef/entitymodel_reports.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applications/accounting/entitydef/entitymodel_old.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/framework/common/data/GeoData_US.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/accounting/entitydef/eecas.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/accounting/entitydef/entitymodel_reports.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/specialpurpose/CloneSomething/entitydef/entitymodel.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="340">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/entity/src/main/java/org/apache/ofbiz/entity/Delegator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14560">
+          <caret line="773" column="7" selection-start-line="773" selection-start-column="7" selection-end-line="773" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specialpurpose/component-load.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/component-load.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
         </state>
       </provider>
     </entry>

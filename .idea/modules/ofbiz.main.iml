@@ -303,8 +303,8 @@
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.axis2:axis2-transport-local:1.7.1" level="project" />
     <orderEntry type="library" name="Gradle: xpp3:xpp3_min:1.1.4c" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.derby:derby:10.11.1.1" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.geronimo.specs:geronimo-jaxrpc_1.1_spec:1.1" level="project" />
     <orderEntry type="library" name="Gradle: commons-beanutils:commons-beanutils:1.9.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.geronimo.specs:geronimo-jaxrpc_1.1_spec:1.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.logging.log4j:log4j-1.2-api:2.6.2" level="project" />
     <orderEntry type="library" name="Gradle: commons-digester:commons-digester:1.8.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.logging.log4j:log4j-core:2.6.2" level="project" />

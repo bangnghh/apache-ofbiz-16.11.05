@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.ofbiz.common.GetLocaleListTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-04-24T17:10:39" hostname="DESKTOP-FB97H2A" time="1.585">
+<testsuite name="org.apache.ofbiz.common.GetLocaleListTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-05-04T11:21:59" hostname="DESKTOP-FB97H2A" time="2.612">
   <properties/>
-  <testcase name="frenchNoDuplicates" classname="org.apache.ofbiz.common.GetLocaleListTests" time="1.3"/>
-  <testcase name="frenchLocaleString" classname="org.apache.ofbiz.common.GetLocaleListTests" time="0.129"/>
-  <testcase name="frenchLocaleName" classname="org.apache.ofbiz.common.GetLocaleListTests" time="0.156"/>
-  <system-out><![CDATA[00:10:39.794 [Test worker] ERROR org.apache.ofbiz.base.location.ComponentLocationResolver - Could not get root location for component with name [base], error was: org.apache.ofbiz.base.component.ComponentException: No component found named : base
+  <testcase name="frenchNoDuplicates" classname="org.apache.ofbiz.common.GetLocaleListTests" time="1.8"/>
+  <testcase name="frenchLocaleString" classname="org.apache.ofbiz.common.GetLocaleListTests" time="0.473"/>
+  <testcase name="frenchLocaleName" classname="org.apache.ofbiz.common.GetLocaleListTests" time="0.337"/>
+  <system-out><![CDATA[18:21:59.450 [Test worker] ERROR org.apache.ofbiz.base.location.ComponentLocationResolver - Could not get root location for component with name [base], error was: org.apache.ofbiz.base.component.ComponentException: No component found named : base
 org.apache.ofbiz.base.component.ComponentException: No component found named : base
 	at org.apache.ofbiz.base.component.ComponentConfig.getComponentConfig(ComponentConfig.java:264) ~[main/:?]
 	at org.apache.ofbiz.base.component.ComponentConfig.getComponentConfig(ComponentConfig.java:239) ~[main/:?]

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.ofbiz.base.start.OfbizStartupUnitTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-04-24T17:10:38" hostname="DESKTOP-FB97H2A" time="0.062">
+<testsuite name="org.apache.ofbiz.base.start.OfbizStartupUnitTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-05-04T11:21:58" hostname="DESKTOP-FB97H2A" time="0.118">
   <properties/>
-  <testcase name="commandParserDoesNotAcceptPortoffsetWithoutPositiveInteger" classname="org.apache.ofbiz.base.start.OfbizStartupUnitTests" time="0.031"/>
-  <testcase name="commandParserDoesNotAcceptPortoffsetWithoutArgument" classname="org.apache.ofbiz.base.start.OfbizStartupUnitTests" time="0.0"/>
-  <testcase name="commandParserDoesNotAcceptArgumentForStart" classname="org.apache.ofbiz.base.start.OfbizStartupUnitTests" time="0.0"/>
-  <testcase name="commandParserDoesNotAcceptArgumentForShutdown" classname="org.apache.ofbiz.base.start.OfbizStartupUnitTests" time="0.0"/>
-  <testcase name="commandParserDoesNotAcceptArgumentForStatus" classname="org.apache.ofbiz.base.start.OfbizStartupUnitTests" time="0.0"/>
-  <testcase name="commandParserCombinesMultipleArgsIntoOneCommand" classname="org.apache.ofbiz.base.start.OfbizStartupUnitTests" time="0.031"/>
+  <testcase name="commandParserDoesNotAcceptPortoffsetWithoutPositiveInteger" classname="org.apache.ofbiz.base.start.OfbizStartupUnitTests" time="0.041"/>
+  <testcase name="commandParserDoesNotAcceptPortoffsetWithoutArgument" classname="org.apache.ofbiz.base.start.OfbizStartupUnitTests" time="0.003"/>
+  <testcase name="commandParserCombinesMultipleArgsIntoOneCommand" classname="org.apache.ofbiz.base.start.OfbizStartupUnitTests" time="0.034"/>
+  <testcase name="commandParserDoesNotAcceptArgumentForStatus" classname="org.apache.ofbiz.base.start.OfbizStartupUnitTests" time="0.001"/>
+  <testcase name="commandParserDoesNotAcceptArgumentForShutdown" classname="org.apache.ofbiz.base.start.OfbizStartupUnitTests" time="0.003"/>
+  <testcase name="commandParserDoesNotAcceptArgumentForStart" classname="org.apache.ofbiz.base.start.OfbizStartupUnitTests" time="0.002"/>
   <testcase name="commandParserDoesNotAcceptMoreThanOneCommand" classname="org.apache.ofbiz.base.start.OfbizStartupUnitTests" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

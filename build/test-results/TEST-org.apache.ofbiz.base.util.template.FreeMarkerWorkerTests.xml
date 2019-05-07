@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.ofbiz.base.util.template.FreeMarkerWorkerTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-04-24T17:10:38" hostname="DESKTOP-FB97H2A" time="0.864">
+<testsuite name="org.apache.ofbiz.base.util.template.FreeMarkerWorkerTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-04T11:21:58" hostname="DESKTOP-FB97H2A" time="0.975">
   <properties/>
-  <testcase name="renderTemplateFromString" classname="org.apache.ofbiz.base.util.template.FreeMarkerWorkerTests" time="0.864"/>
+  <testcase name="renderTemplateFromString" classname="org.apache.ofbiz.base.util.template.FreeMarkerWorkerTests" time="0.975"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[ERROR StatusLogger No log4j2 configuration file found. Using default configuration: logging only errors to the console.
 ]]></system-err>
