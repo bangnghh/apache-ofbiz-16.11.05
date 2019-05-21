@@ -1230,6 +1230,7 @@ under the License.
       <field name="municipalityGeoId" type="id"></field>
       <field name="postalCodeGeoId" type="id"></field>
       <field name="geoPointId" type="id"></field>
+      <field name="planet" type="name"></field>
       <prim-key field="contactMechId"/>
       <relation type="one" fk-name="POST_ADDR_CMECH" rel-entity-name="ContactMech">
         <key-map field-name="contactMechId"/>

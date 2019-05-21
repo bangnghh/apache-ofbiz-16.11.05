@@ -38,7 +38,7 @@ under the License.
     <service-resource type="model" loader="main" location="servicedef/services_upgrade.xml"/>
 
     <webapp name="humanres"
-        title="HR"
+        title="Human Resources"
         description="HumanResourceApplication"
         server="default-server"
         location="webapp/humanres"

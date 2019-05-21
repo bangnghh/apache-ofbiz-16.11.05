@@ -160,7 +160,13 @@ under the License.
         <input type="text" size="30" maxlength="60" name="postalCode" value="${(mechMap.postalAddress.postalCode)?default(request.getParameter('postalCode')!)}" />
       </td>
     </tr>
-    <tr>   
+    <tr>
+      <td class="label">Planet</td>
+      <td>
+        <input type="text" size="30" maxlength="100" name="planet" value="${(mechMap.postalAddress.planet)!}">
+      </td>
+    </tr>
+    <tr>
       <td class="label">${uiLabelMap.CommonCountry}</td>
       
       <td>     
@@ -184,6 +190,7 @@ under the License.
       <td><#if isUsps>${uiLabelMap.CommonY}<#else>${uiLabelMap.CommonN}</#if>
       </td>
     </tr>
+
 
   <#elseif "TELECOM_NUMBER" = mechMap.contactMechTypeId!>
     <tr>

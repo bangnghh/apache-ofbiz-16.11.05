@@ -19,7 +19,8 @@ under the License.
 -->
 
 <screens xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xmlns="http://ofbiz.apache.org/Widget-Screen" xsi:schemaLocation="http://ofbiz.apache.org/Widget-Screen http://ofbiz.apache.org/dtds/widget-screen.xsd">
+         xmlns="http://ofbiz.apache.org/Widget-Screen"
+         xsi:schemaLocation="http://ofbiz.apache.org/Widget-Screen http://ofbiz.apache.org/dtds/widget-screen.xsd">
     <screen name="CreatePartyNotification">
         <section>
             <actions>
@@ -27,7 +28,11 @@ under the License.
                 <set field="title" value="${uiLabelMap.PartyNotificationMailCreate}"/>
             </actions>
             <widgets>
-                <platform-specific><html><html-template location="component://party/template/email/CreatePartyNotification.ftl"/></html></platform-specific>
+                <platform-specific>
+                    <html>
+                        <html-template location="component://party/template/email/CreatePartyNotification.ftl"/>
+                    </html>
+                </platform-specific>
             </widgets>
         </section>
     </screen>
@@ -38,7 +43,11 @@ under the License.
                 <set field="title" value="${uiLabelMap.PartyNotificationMailChange}"/>
             </actions>
             <widgets>
-                <platform-specific><html><html-template location="component://party/template/email/ChangePersonalInfoNotification.ftl"/></html></platform-specific>
+                <platform-specific>
+                    <html>
+                        <html-template location="component://party/template/email/ChangePersonalInfoNotification.ftl"/>
+                    </html>
+                </platform-specific>
             </widgets>
         </section>
     </screen>
@@ -49,7 +58,11 @@ under the License.
                 <set field="title" value="${uiLabelMap.PartyNotificationMailVerification}"/>
             </actions>
             <widgets>
-                <platform-specific><html><html-template location="component://party/template/email/VerifyEmailAddressNotification.ftl"/></html></platform-specific>
+                <platform-specific>
+                    <html>
+                        <html-template location="component://party/template/email/VerifyEmailAddressNotification.ftl"/>
+                    </html>
+                </platform-specific>
             </widgets>
         </section>
     </screen>
@@ -60,7 +73,11 @@ under the License.
                 <set field="title" value="${uiLabelMap.PartyNotificationMailActivated}"/>
             </actions>
             <widgets>
-                <platform-specific><html><html-template location="component://party/template/email/AccountActivatedNotification.ftl"/></html></platform-specific>
+                <platform-specific>
+                    <html>
+                        <html-template location="component://party/template/email/AccountActivatedNotification.ftl"/>
+                    </html>
+                </platform-specific>
             </widgets>
         </section>
     </screen>
