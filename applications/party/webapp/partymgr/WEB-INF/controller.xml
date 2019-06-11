@@ -25,7 +25,7 @@ under the License.
     <include location="component://common/webcommon/WEB-INF/security-controller.xml"/>
     <include location="component://commonext/webapp/WEB-INF/controller.xml"/>
     <include location="component://content/webapp/content/WEB-INF/controller.xml"/>
-    <include location="component://learning/webapp/partymgr/WEB-INF/extended.xml"/>
+    <include location="component://learning/webapp/learning/WEB-INF/extended.xml"/>
     <description>Party Manager Module Site Configuration File</description>
 
     <handler name="simplecontent" type="view" class="org.apache.ofbiz.content.view.SimpleContentViewHandler"/>

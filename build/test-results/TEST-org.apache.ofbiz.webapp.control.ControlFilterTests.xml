@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.ofbiz.webapp.control.ControlFilterTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-05-17T16:09:03" hostname="DESKTOP-FB97H2A" time="0.013">
+<testsuite name="org.apache.ofbiz.webapp.control.ControlFilterTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-06-10T10:49:17" hostname="DESKTOP-FB97H2A" time="0.007">
   <properties/>
-  <testcase name="initSetsProperErrorCode" classname="org.apache.ofbiz.webapp.control.ControlFilterTests" time="0.011"/>
+  <testcase name="initSetsProperErrorCode" classname="org.apache.ofbiz.webapp.control.ControlFilterTests" time="0.006"/>
   <testcase name="initRetrievesAllInitParameters" classname="org.apache.ofbiz.webapp.control.ControlFilterTests" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/hot-deploy/learning/webapp/learning/WEB-INF/actions/actions.iml" filepath="$PROJECT_DIR$/hot-deploy/learning/webapp/learning/WEB-INF/actions/actions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ofbiz.iml" filepath="$PROJECT_DIR$/.idea/modules/ofbiz.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/ofbiz.applications.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/ofbiz.applications.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/applications/accounting/ofbiz.applications.accounting.iml" filepath="$PROJECT_DIR$/.idea/modules/applications/accounting/ofbiz.applications.accounting.iml" />
@@ -32,8 +33,11 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/webapp/ofbiz.framework.webapp.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/webapp/ofbiz.framework.webapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/webtools/ofbiz.framework.webtools.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/webtools/ofbiz.framework.webtools.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework/widget/ofbiz.framework.widget.iml" filepath="$PROJECT_DIR$/.idea/modules/framework/widget/ofbiz.framework.widget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hot-deploy/ofbiz.hot-deploy.iml" filepath="$PROJECT_DIR$/.idea/modules/hot-deploy/ofbiz.hot-deploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hot-deploy/learning/ofbiz.hot-deploy.learning.iml" filepath="$PROJECT_DIR$/.idea/modules/hot-deploy/learning/ofbiz.hot-deploy.learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ofbiz.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ofbiz.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/ofbiz.specialpurpose.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/ofbiz.specialpurpose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/SampleDemo/ofbiz.specialpurpose.SampleDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/SampleDemo/ofbiz.specialpurpose.SampleDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/assetmaint/ofbiz.specialpurpose.assetmaint.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/assetmaint/ofbiz.specialpurpose.assetmaint.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/bi/ofbiz.specialpurpose.bi.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/bi/ofbiz.specialpurpose.bi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/specialpurpose/birt/ofbiz.specialpurpose.birt.iml" filepath="$PROJECT_DIR$/.idea/modules/specialpurpose/birt/ofbiz.specialpurpose.birt.iml" />
@@ -58,6 +62,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/themes/multiflex/ofbiz.themes.multiflex.iml" filepath="$PROJECT_DIR$/.idea/modules/themes/multiflex/ofbiz.themes.multiflex.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/themes/rainbowstone/ofbiz.themes.rainbowstone.iml" filepath="$PROJECT_DIR$/.idea/modules/themes/rainbowstone/ofbiz.themes.rainbowstone.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/themes/tomahawk/ofbiz.themes.tomahawk.iml" filepath="$PROJECT_DIR$/.idea/modules/themes/tomahawk/ofbiz.themes.tomahawk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/specialpurpose/ofbizDemo/ofbizDemo.iml" filepath="$PROJECT_DIR$/specialpurpose/ofbizDemo/ofbizDemo.iml" />
     </modules>
   </component>
 </project>

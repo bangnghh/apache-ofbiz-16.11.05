@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<site-conf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns="http://ofbiz.apache.org/Site-Conf" xsi:schemaLocation="http://ofbiz.apache.org/Site-Conf http://ofbiz.apache.org/dtds/site-conf.xsd">
+    <description>Learning Module Site Configuration File</description>
+
+    <handler name="screen" type="view" class="org.apache.ofbiz.widget.renderer.macro.MacroScreenViewHandler"/>
+    <handler name="java" type="request" class="org.apache.ofbiz.webapp.event.JavaEventHandler"/>
+
+    <!-- Request Mappings -->
+    <request-map uri="SimplestScreen">
+        <response name="success" type="view" value="SimplestScreen"></response>
+    </request-map>
+
+    <request-map uri="ConditionalScreen">
+        <response name="success" type="view" value="ConditionalScreen"></response>
+    </request-map>
+
+    <request-map uri="ConditionalScreenWithGroovy">
+        <response name="success" type="view" value="ConditionalScreenWithGroovy"></response>
+    </request-map>
+
+    <request-map uri="NestedSections">
+        <response name="success" type="view" value="NestedSections"></response>
+    </request-map>
+
+    <request-map uri="CompoundedScreen">
+        <response name="success" type="view" value="CompoundedScreen"></response>
+    </request-map>
+
+    <request-map uri="GlobalContext">
+        <response name="success" type="view" value="GlobalContext"></response>
+    </request-map>
+
+    <request-map uri="OneForm">
+        <response name="success" type="view" value="OneFormScreen"></response>
+    </request-map>
+
+    <request-map uri="processFirstForm">
+        <event type="java" path="org.ofbiz.learning.learning.LearningEvents" invoke="processFirstForm"/>
+        <response name="success" type="view" value="OneFormScreen"></response>
+    </request-map>
+
+    <request-map uri="ListForm">
+        <response name="success" type="view" value="ListFormScreen"></response>
+    </request-map>
+
+    <request-map uri="processListForm">
+        <event type="java" path="org.ofbiz.learning.learning.LearningEvents" invoke="processListForm"/>
+        <response name="success" type="view" value="ListFormScreen"></response>
+    </request-map>
+
+    <request-map uri="MultiForm">
+        <response name="success" type="view" value="MultiFormScreen"></response>
+    </request-map>
+
+    <request-map uri="processMultiForm">
+        <event type="java" path="org.ofbiz.learning.learning.LearningEvents" invoke="processMultiForm"/>
+        <response name="success" type="view" value="MultiFormScreen"></response>
+    </request-map>
+
+    <request-map uri="TwoTargetForm">
+        <response name="success" type="view" value="TwoTargetFormScreen"></response>
+    </request-map>
+    
+    <request-map uri="RowMutatingForm">
+        <response name="success" type="view" value="RowMutatingFormScreen"></response>
+    </request-map>
+
+    <!-- View Mappings -->
+    <view-map name="SimplestScreen" type="screen" page="component://learning/widget/learning/LearningScreens.xml#SimplestScreenWithMenu"/>
+    <view-map name="ConditionalScreen" type="screen" page="component://learning/widget/learning/LearningScreens.xml#ConditionalScreenWithMenu"/>
+    <view-map name="ConditionalScreenWithGroovy" type="screen" page="component://learning/widget/learning/LearningScreens.xml#ConditionalScreenWithGroovy"/>
+    <view-map name="NestedSections" type="screen" page="component://learning/widget/learning/LearningScreens.xml#NestedSections"/>
+    <view-map name="CompoundedScreen" type="screen" page="component://learning/widget/learning/LearningScreens.xml#CompoundedScreen"/>
+    <view-map name="GlobalContext" type="screen" page="component://learning/widget/learning/LearningScreens.xml#GlobalContext"/>
+    <view-map name="OneFormScreen" type="screen" page="component://learning/widget/learning/LearningScreens.xml#OneFormScreen"/>
+    <view-map name="ListFormScreen" type="screen" page="component://learning/widget/learning/LearningScreens.xml#ListFormScreen"/>
+    <view-map name="MultiFormScreen" type="screen" page="component://learning/widget/learning/LearningScreens.xml#MultiFormScreen"/>
+    <view-map name="TwoTargetFormScreen" type="screen" page="component://learning/widget/learning/LearningScreens.xml#TwoTargetFormScreen"/>
+    <view-map name="RowMutatingFormScreen" type="screen" page="component://learning/widget/learning/LearningScreens.xml#RowMutatingFormScreen"/>
+
+</site-conf>

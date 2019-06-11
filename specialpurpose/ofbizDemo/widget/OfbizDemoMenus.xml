@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ofbiz.apache.org/Widget-Menu" xsi:schemaLocation="http://ofbiz.apache.org/Widget-Menu http://ofbiz.apache.org/dtds/widget-menu.xsd">
+    <menu name="MainAppBar" title="${uiLabelMap.OfbizDemoApplication}" extends="CommonAppBarMenu" extends-resource="component://common/widget/CommonMenus.xml">
+        <menu-item name="main" title="Main Page"><link target="main"/></menu-item>
+        <menu-item name="screen2" title="Screen 2 Page"><link target="screen2"/></menu-item>
+    </menu>
+
+    <menu name="MainTabBar" title="MainTabBar" extends="CommonTabBarMenu" extends-resource="component://common/widget/CommonMenus.xml">
+        <menu-item name="main" title="Main Page"><link target="main"/></menu-item>
+        <menu-item name="screen2" title="Screen 2 Page"><link target="screen2"/></menu-item>
+    </menu>
+</menus>

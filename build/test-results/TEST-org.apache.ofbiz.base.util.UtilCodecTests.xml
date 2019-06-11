@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.ofbiz.base.util.UtilCodecTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-05-17T16:08:57" hostname="DESKTOP-FB97H2A" time="0.151">
+<testsuite name="org.apache.ofbiz.base.util.UtilCodecTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-06-10T10:49:10" hostname="DESKTOP-FB97H2A" time="0.142">
   <properties/>
-  <testcase name="checkStringForHtmlStrictNoneDetectsXSS" classname="org.apache.ofbiz.base.util.UtilCodecTests" time="0.138"/>
-  <testcase name="testCheckStringForHtmlStrictNone" classname="org.apache.ofbiz.base.util.UtilCodecTests" time="0.01"/>
-  <testcase name="canonicalizeRevealsEscapedXSS" classname="org.apache.ofbiz.base.util.UtilCodecTests" time="0.001"/>
-  <testcase name="testGetEncoder" classname="org.apache.ofbiz.base.util.UtilCodecTests" time="0.001"/>
-  <system-out><![CDATA[23:08:57.208 [Test worker] ERROR org.apache.ofbiz.base.util.UtilCodec - Canonicalization (format consistency, character escaping that is mixed or double, etc) error for attribute named [double-encoding], String [%2%353Cscript]: org.apache.ofbiz.base.util.UtilCodec$IntrusionException: Input validation failure
+  <testcase name="checkStringForHtmlStrictNoneDetectsXSS" classname="org.apache.ofbiz.base.util.UtilCodecTests" time="0.13"/>
+  <testcase name="canonicalizeRevealsEscapedXSS" classname="org.apache.ofbiz.base.util.UtilCodecTests" time="0.0"/>
+  <testcase name="testCheckStringForHtmlStrictNone" classname="org.apache.ofbiz.base.util.UtilCodecTests" time="0.011"/>
+  <testcase name="testGetEncoder" classname="org.apache.ofbiz.base.util.UtilCodecTests" time="0.0"/>
+  <system-out><![CDATA[17:49:11.037 [Test worker] ERROR org.apache.ofbiz.base.util.UtilCodec - Canonicalization (format consistency, character escaping that is mixed or double, etc) error for attribute named [double-encoding], String [%2%353Cscript]: org.apache.ofbiz.base.util.UtilCodec$IntrusionException: Input validation failure
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

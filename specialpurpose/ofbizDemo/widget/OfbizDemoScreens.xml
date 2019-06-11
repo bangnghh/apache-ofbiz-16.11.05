@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screens xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://ofbiz.apache.org/Widget-Screen" xsi:schemaLocation="http://ofbiz.apache.org/Widget-Screen http://ofbiz.apache.org/dtds/widget-screen.xsd">
+
+    <screen name="main">
+        <section>
+            <actions>
+                <set field="headerItem" value="main"/><!-- this highlights the selected menu-item with name "main" -->
+            </actions>
+            <widgets>
+                <decorator-screen name="OfbizDemoCommonDecorator" location="${parameters.mainDecoratorLocation}">
+                    <decorator-section name="body">
+                        <include-menu name="MainTabBar" location="component://ofbizDemo/widget/OfbizDemoMenus.xml"/>
+                        <label text="Hello World!! :)"/>
+                    </decorator-section>
+                </decorator-screen>
+            </widgets>
+        </section>
+    </screen>
+
+    <screen name="screen2">
+        <section>
+            <widgets>
+                <decorator-screen name="OfbizDemoCommonDecorator" location="${parameters.mainDecoratorLocation}">
+                    <decorator-section name="body">
+                        <include-menu name="MainTabBar" location="component://ofbizDemo/widget/OfbizDemoMenus.xml"/>
+                        <label text="You are in Screen 2 !!!! :)"/>
+                    </decorator-section>
+                </decorator-screen>
+            </widgets>
+        </section>
+    </screen>
+
+    <screen name="SimplestScreenWithMenu">
+        <section>
+            <widgets>
+                <decorator-screen name="OfbizDemoCommonDecorator" location="${parameters.mainDecoratorLocation}">
+                    <decorator-section name="body">
+                        <include-menu name="MainTabBar" location="component://ofbizDemo/widget/OfbizDemoMenus.xml"/>
+                    </decorator-section>
+                </decorator-screen>
+            </widgets>
+        </section>
+    </screen>
+
+    <screen name="OneFormScreen">
+        <section>
+            <widgets>
+                <decorator-screen name="OfbizDemoCommonDecorator" location="${parameters.mainDecoratorLocation}">
+                    <decorator-section name="body">
+                        <include-form name="FirstForm" location="component://ofbizDemo/widget/OfbizDemoForms.xml"/>
+                        <section>
+                            <condition>
+                                <not>
+                                    <if-empty field-name="parameters.submit"/>
+                                </not>
+                            </condition>
+                            <widgets>
+                                <container><label text="firstName: ${parameters.firstName}"/> </container>
+                                <container><label text="lastName: ${parameters.lastName}"/> </container>
+                                <container><label text="combined: ${parameters.combined}"/> </container>
+                                <container><label text="submit: ${parameters.submit}"/> </container>
+                                <container><label text="All the parameters we received:"/></container>
+                                <container><label text="${parameters.allParams}"/></container>
+                            </widgets>
+                        </section>
+                    </decorator-section>
+                </decorator-screen>
+            </widgets>
+        </section>
+    </screen>
+    
+    <screen name="ListFormScreen">
+        <section>
+            <actions>
+                <script location="component://ofbizDemo/webapp/ofbizDemo/WEB-INF/actions/loadListOfSampleData.groovy"/>
+            </actions>
+            <widgets>
+                <decorator-screen name="OfbizDemoCommonDecorator" location="${parameters.mainDecoratorLocation}">
+                    <decorator-section name="body">
+                        <include-form name="ListForm" location="component://ofbizDemo/widget/OfbizDemoForms.xml"/>
+                        <include-screen name="showProcessing"/>
+                    </decorator-section>
+                </decorator-screen>
+            </widgets>
+        </section>
+    </screen>
+
+    <screen name="MultiFormScreen">
+        <section>
+            <actions>
+                <script location="component://ofbizDemo/webapp/ofbizDemo/WEB-INF/actions/loadListOfSampleData.groovy"/>
+            </actions>
+            <widgets>
+                <decorator-screen name="OfbizDemoCommonDecorator" location="${parameters.mainDecoratorLocation}">
+                    <decorator-section name="body">
+                        <include-form name="MultiForm" location="component://ofbizDemo/widget/OfbizDemoForms.xml"/>
+                        <include-screen name="showProcessing"/>
+                    </decorator-section>
+                </decorator-screen>
+            </widgets>
+        </section>
+    </screen>
+
+    <screen name="TwoTargetFormScreen">
+        <section>
+            <actions>
+                <entity-one entity-name="Person" value-name="record"/>
+            </actions>
+            <widgets>
+                <decorator-screen name="OfbizDemoCommonDecorator" location="${parameters.mainDecoratorLocation}">
+                    <decorator-section name="body">
+                        <include-form name="TwoTargetForm" location="component://ofbizDemo/widget/OfbizDemoForms.xml"/>
+
+                    </decorator-section>
+                </decorator-screen>
+            </widgets>
+        </section>
+    </screen>
+
+    <screen name="showProcessing">
+        <section>
+            <condition>
+                <not>
+                    <if-empty field-name="parameters.submit"/>
+                </not>
+            </condition>
+            <widgets>
+                <container><label text="firstName: ${parameters.firstName}"/> </container>
+                <container><label text="lastName: ${parameters.lastName}"/> </container>
+                <container><label text="combined: ${parameters.combined}"/> </container>
+                <container><label text="submit: ${parameters.submit}"/> </container>
+                <container><label text="All the parameters we received:"/></container>
+                <container><label text="${parameters.allParams}"/></container>
+            </widgets>
+        </section>
+    </screen>
+</screens>

@@ -8,6 +8,12 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../out/production/classes" />
     <exclude-output />
+    <content url="file://$MODULE_DIR$/../../specialpurpose/ofbizDemo/config">
+          <sourceFolder url="file://$MODULE_DIR$/../../specialpurpose/ofbizDemo/config" type="java-resource" />
+        </content>
+    <content url="file://$MODULE_DIR$/../../specialpurpose/ofbizDemo/src">
+          <sourceFolder url="file://$MODULE_DIR$/../../specialpurpose/ofbizDemo/src/main/java" isTestSource="false" />
+    </content>
     <content url="file://$MODULE_DIR$/../../applications/accounting/config">
       <sourceFolder url="file://$MODULE_DIR$/../../applications/accounting/config" type="java-resource" />
     </content>
@@ -145,6 +151,12 @@
     </content>
     <content url="file://$MODULE_DIR$/../../framework/widget/src">
       <sourceFolder url="file://$MODULE_DIR$/../../framework/widget/src/main/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../hot-deploy/learning/config">
+      <sourceFolder url="file://$MODULE_DIR$/../../hot-deploy/learning/config" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../hot-deploy/learning/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../hot-deploy/learning/src/main/java" isTestSource="false" />
     </content>
     <content url="file://$MODULE_DIR$/../../specialpurpose/assetmaint/config">
       <sourceFolder url="file://$MODULE_DIR$/../../specialpurpose/assetmaint/config" type="java-resource" />
@@ -297,8 +309,8 @@
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.axis2:axis2-transport-local:1.7.1" level="project" />
     <orderEntry type="library" name="Gradle: xpp3:xpp3_min:1.1.4c" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.derby:derby:10.11.1.1" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.geronimo.specs:geronimo-jaxrpc_1.1_spec:1.1" level="project" />
     <orderEntry type="library" name="Gradle: commons-beanutils:commons-beanutils:1.9.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.geronimo.specs:geronimo-jaxrpc_1.1_spec:1.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.logging.log4j:log4j-1.2-api:2.6.2" level="project" />
     <orderEntry type="library" name="Gradle: commons-digester:commons-digester:1.8.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.logging.log4j:log4j-core:2.6.2" level="project" />

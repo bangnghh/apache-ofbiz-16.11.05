@@ -8,8 +8,7 @@
                 <set field="titleProperty" value="PageTitleEditContactMech"/>
                 <set field="headerItem" value="find"/>
                 <set field="tabButtonItem" value="editcontactmech"/>
-                <set field="labelTitleProperty"
-                     value="PageTitleEditContactMech"/>
+                <set field="labelTitleProperty" value="PageTitleEditContactMech"/>
                 <script location="component://party/groovyScripts/party/EditContactMech.groovy"/>
             </actions>
             <widgets>
@@ -26,6 +25,18 @@
                         </section>
                     </decorator-section>
                 </decorator-screen>
+            </widgets>
+        </section>
+    </screen>
+
+    <screen name="editcontactmech.extend">
+        <section>
+            <widgets>
+                <platform-specific>
+                    <html>
+                        <html-template location="component://learning/template/party/editcontactmech.extend.ftl"/>
+                    </html>
+                </platform-specific>
             </widgets>
         </section>
     </screen>
